@@ -1,17 +1,12 @@
-# Webpack Typesctipt starter
+# T001
 
-## What`s inside?
-- eslint-plugin
-- eslint (airbnb)
-- prettier
-- css-loader
-- sass
-  - sass-loader
-- style-loader
-- typescript
-- webpack
-  - html-webpack-plugin
-  - copy-webpack-plugin
+Link to deploy: https://unsky559.github.io/t001_Softevol_Trainee-Junior-Front-end-developer/
+
+
+The task was to replay [this](https://www.microsoft.com/en-us/d/surface-book-3/8xbw9g3z71f1?activetab=pivot:overviewtab) header visible after loading.
+Screenshots taken in the latest version of Chrome should match exactly.
+Implement responsive header and mouseover effects (except for drop-down menus).
+
 
 ## Commands
 
