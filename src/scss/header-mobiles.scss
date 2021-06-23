@@ -1,0 +1,89 @@
+@media screen and (max-width: 1400px){
+  .actions-controls{
+    span{
+      display: none;
+    }
+  }
+}
+
+@media screen and (max-width: 1250px){
+  #shop-btn{
+    display: none;
+  }
+  #support-btn{
+    display: none;
+  }
+  #more-btn{
+    display: inline-block;
+  }
+}
+
+@media screen and(max-width: 1100px){
+  .header{
+    height: 54px;
+    max-height: 54px;
+    width: 100%;
+    margin: 0;
+    padding: 0 24px;
+    &_container{
+      margin: 0 5px;
+      max-width: 1600px;
+      height: inherit;
+  
+      display: flex;
+    }
+  }
+  #accessories-btn{
+    display: none;
+  }
+}
+
+@media screen and(max-width: 935px){
+  #computers-2-btn{
+    display: none;
+  }
+}
+
+@media screen and(max-width: 855px){
+  //mobile header
+
+  .header{
+    padding: 0;
+  }
+
+  .header_logo{
+    display: none;
+  }
+  .dropdown-links{
+    display: none;
+  }
+  
+  #all-microsoft-btn{
+    display: none;
+  }
+
+  #header-logo-mobile{
+    display: block;
+  }
+
+  #menu-btn{
+    display: block;
+  }
+
+  .actions-menu{
+    width: 100%;
+    .dropdown-links_nav{
+      width: inherit;
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+  .subheader{
+    display: block;
+    width: 100%;
+    height: 34px;
+    border-top: 1px solid #e6e6e6;
+    border-bottom: 1px solid #e6e6e6;
+  }
+}
+
