@@ -1,6 +1,6 @@
 # T001
 
-Link to deploy: https://unsky559.github.io/t001_Softevol_Trainee-Junior-Front-end-developer/
+Link to deploy: https://unsky559.github.io/t001/
 
 
 The task was to replay [this](https://www.microsoft.com/en-us/d/surface-book-3/8xbw9g3z71f1?activetab=pivot:overviewtab) header visible after loading.
